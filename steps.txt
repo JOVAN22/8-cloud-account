@@ -1,0 +1,20 @@
+Provider chosen - Microsoft azure
+
+Steps followed
+
+1) visit azure.microsoft.com
+2) choose get started with azure 
+3) choose try azure for free
+4) tick all their terms and conditions
+5) Enter your information
+6) Enter card information
+7) Verify otp
+8)If everything gets successful, you will be redirected to portal.azure.com with 200 dollars worth of credit enabled in the account
+
+
+Yes verification was performed through email.
+
+yes payment method was required.
+
+
+
